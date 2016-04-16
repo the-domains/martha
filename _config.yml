@@ -1,0 +1,28 @@
+name: Martha
+favicon: null
+layout_spectrum: 0.19419481372460723
+typography_spectrum: 0.2832242662552744
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4808878358453512
+  lightness: 0.3576135942712426
+  saturation: 0.7501035523600876
+  rhythmicContrast: 0.2490694613661617
+purpose: []
